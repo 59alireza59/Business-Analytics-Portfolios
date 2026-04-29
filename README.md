@@ -1,14 +1,18 @@
-# Quantitative Booklet
+# Business-Analytics-Portfolio
 
-A curated set of small, self-contained analytics / data science “booklets” in **Python** and **R**.
+# Environmental Economics & ESG Analytics
 
-Each booklet folder contains:
+Applied analytics projects for cost–benefit analysis, environmental valuation, Monte Carlo risk assessment, and sustainability decision support.
+
+A curated set of small, self-contained analytics / data science “portfolios” in **Python** and **R**.
+
+Each portfolio folder contains:
 - a short **README** (what the analysis does, where the data comes from, how to run)
 - a runnable script (`.py` or `.R`)
 - an `assets/` folder where plots/figures are saved
 - a link to the original PDF in `booklets/` (optional reference)
 
-## Booklets included
+## Portfolios included
 
 ### Python
 - **Canadian Immigration Analysis (1980–2013)** — exploratory visuals over time + decade aggregation.
