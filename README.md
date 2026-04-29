@@ -1,7 +1,5 @@
 # Business-Analytics-Portfolios
 
-# Environmental Economics & ESG Analytics
-
 Applied analytics projects for cost–benefit analysis, environmental valuation, Monte Carlo risk assessment, and sustainability decision support.
 
 A curated set of small, self-contained analytics / data science “portfolios” in **Python** and **R**.
