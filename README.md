@@ -1,4 +1,4 @@
-# Business-Analytics-Portfolio
+# Business-Analytics-Portfolios
 
 # Environmental Economics & ESG Analytics
 
@@ -32,5 +32,5 @@ Each portfolio folder contains:
 
 ### Clone
 ```bash
-git clone https://github.com/59alireza59/Quantitative-Booklet.git
-cd Quantitative-Booklet
+git clone https://github.com/59alireza59/Business-Analytics-Portfolios.git
+cd Business-Analytics-Portfolios
